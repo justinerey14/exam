@@ -1,73 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <libraryUsers>
     <user>
-        <name>S.Coups</name>
+        <name>Lewis Hamilton</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>scoups.jpg</picture>
+        <adviser>Toto Wolff</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>lewis.jpg</picture>
     </user>
     <user>
-        <name>Jeonghan</name>
+        <name>Max Verstappen</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>jeonghan.jpg</picture>
+        <adviser>Christian Horner</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>max.jpg</picture>
     </user>
     <user>
-        <name>Joshua</name>
+        <name>Charles Leclerc</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>joshua.jpg</picture>
+        <adviser>Mattia Binotto</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>leclerc.jpg</picture>
     </user>
     <user>
-        <name>Jun</name>
+        <name>Sergio Perez</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>jun.jpg</picture>
+        <adviser>Christian Horner</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>perez.jpg</picture>
     </user>
     <user>
-        <name>Hoshi</name>
+        <name>George Russell</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>hoshi.jpg</picture>
+        <adviser>Toto Wolff</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>russell.jpg</picture>
     </user>
     <user>
-        <name>Wonwoo</name>
+        <name>Fernando Alonso</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>wonwoo.png</picture>
+        <adviser>Otmar Szafnauer</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>alonso.jpg</picture>
     </user>
     <user>
-        <name>Woozi</name>
+        <name>Carlos Sainz</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>woozi.jpg</picture>
+        <adviser>Mattia Binotto</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>sainz.jpg</picture>
     </user>
     <user>
-        <name>DK</name>
+        <name>Lando Norris</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>dk.jpg</picture>
+        <adviser>Andreas Seidl</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>norris.jpg</picture>
     </user>
     <user>
-        <name>Mingyu</name>
+        <name>Esteban Ocon</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>mingyu.jpg</picture>
+        <adviser>Luca de Meo</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>ocon.jpg</picture>
     </user>
     <user>
-        <name>Vernon</name>
+        <name>Valtteri Bottas</name>
         <course>BSIT</course>
         <yearLevelSection>3BG1</yearLevelSection>
-        <adviser>Mrs. Noemi Reyes</adviser>
-        <picture>vernon.jpg</picture>
+        <adviser>Frederic Vasseur</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>bottas.jpg</picture>
     </user>
 </libraryUsers>
