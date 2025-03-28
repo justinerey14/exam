@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryUsers>
+    <user>
+        <name>S.Coups</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+<<<<<<< HEAD
+   <img src="scoups.jpg" alt="S.Coups" />
+=======
+        <img src="scoups.png" alt="Kristel Jane C. Gonzales" />
+>>>>>>> 2eaeacf (Updated project)
+    </user>
+    <user>
+        <name>Jeonghan</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>jeonghan.jpg</picture>
+    </user>
+    <user>
+        <name>Joshua</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>joshua.jpg</picture>
+    </user>
+    <user>
+        <name>Jun</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>jun.jpg</picture>
+    </user>
+    <user>
+        <name>Hoshi</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>hoshi.jpg</picture>
+    </user>
+    <user>
+        <name>Wonwoo</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>wonwoo.png</picture>
+    </user>
+    <user>
+        <name>Woozi</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>woozi.jpg</picture>
+    </user>
+    <user>
+        <name>DK</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>dk.jpg</picture>
+    </user>
+    <user>
+        <name>Mingyu</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>mingyu.jpg</picture>
+    </user>
+    <user>
+        <name>Vernon</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG1</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>vernon.jpg</picture>
+    </user>
+</libraryUsers>
