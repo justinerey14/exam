@@ -62,7 +62,7 @@
       }
       .details strong {
         font-weight: bold;
-        color: #01579b;
+        color: #6D4C41;
       }
     </style>
   </head>
@@ -87,6 +87,7 @@
             const course = users[i].getElementsByTagName("course")[0].textContent;
             const yearLevelSection = users[i].getElementsByTagName("yearLevelSection")[0].textContent;
             const adviser = users[i].getElementsByTagName("adviser")[0].textContent;
+            const schoolYear = users[i].getElementsByTagName("schoolYear")[0].textContent; 
             const picture = users[i].getElementsByTagName("picture")[0].textContent;
 
             const studentDiv = document.createElement("div");
@@ -103,6 +104,7 @@
               <p><strong>Course:</strong> ${course}</p>
               <p><strong>Year/Section:</strong> ${yearLevelSection}</p>
               <p><strong>Adviser:</strong> ${adviser}</p>
+              <p><strong>School Year:</strong> ${schoolYear}</p> 
             `;
 
             studentDiv.appendChild(img);
@@ -115,3 +117,4 @@
     </script>
   </body>
 </html>
+
